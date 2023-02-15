@@ -1,0 +1,1 @@
+export const GET_RECIPE_DATA = 'GET_RECIPE_DATA';
